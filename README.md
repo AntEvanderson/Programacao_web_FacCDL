@@ -12,18 +12,16 @@ Estrutura de Páginas:
         └── 📁 Programacao_web
 
 
-Telas: 
-       ![tela_home](https://github.com/user-attachments/assets/9a9c2dce-363e-4224-853e-49ff5e0f6bcc)
-
-       
-      ![tela_login](https://github.com/user-attachments/assets/1a99abe1-ab1c-494f-ab60-1e056627b8ad)
 
 
-      ![tela_formulario](https://github.com/user-attachments/assets/b8d13405-96d3-4c61-bcb6-688af9473522)
-
+Telas:
       
-     ![acesso](https://github.com/user-attachments/assets/f93847d4-0bfb-439c-9e68-85096b671230)
+![tela_home](https://github.com/user-attachments/assets/ee353bf3-2be2-4144-9160-11dfae9b5431)
 
-  
-    ![tela_banco_de_dados](https://github.com/user-attachments/assets/05607297-2b17-4996-a836-ae31328bd3db) 
-      
+![tela_formulario](https://github.com/user-attachments/assets/5da0e41c-d762-41e6-90c0-f450f9032039)
+
+![tela_banco_de_dados](https://github.com/user-attachments/assets/7a5d4a95-7c06-4e5a-ad4f-83fc34edec18)
+
+![acesso](https://github.com/user-attachments/assets/82423eca-d380-4d25-a0d9-50e4be0562e6)
+
+![tela_login](https://github.com/user-attachments/assets/84ddf0c7-150a-4341-9444-5bed74b80e19)
